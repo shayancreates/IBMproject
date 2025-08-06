@@ -12,4 +12,5 @@ streamlit-aggrid
 plotly
 seaborn
 scikit-learn
+langchain-google-genai
 pydeck
