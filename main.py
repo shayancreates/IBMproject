@@ -42,7 +42,7 @@ st.markdown("""
 
 
 with st.sidebar:
-    st.title("GreenPlate")
+    st.title("")
     st.markdown("""
     ### Sustainable Food Sharing
     """)
